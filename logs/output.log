@@ -1,0 +1,38 @@
+2020-03-01 17:51:16,421 INFO b.p.s.u.BudgetPlannerImporter [main] Reading file
+2020-03-01 17:51:16,430 INFO b.p.s.u.BudgetPlannerImporter [main] Creating new account
+2020-03-01 17:51:16,431 INFO b.p.s.u.BudgetPlannerImporter [main] Creating payment
+2020-03-01 17:51:16,448 DEBUG b.p.s.u.BudgetPlannerImporter [main] New payement: {date=2020-02-07T23:48:41, amount=2264.04, currency='EUR', detail='Voluptatibus ut quasi non voluptatem ad.'}
+2020-03-01 17:51:16,448 DEBUG b.p.s.u.BudgetPlannerImporter [main] New account created: be.pxl.student.entity.Account@865dd6
+2020-03-01 17:51:16,448 INFO b.p.s.u.BudgetPlannerImporter [main] Creating new account
+2020-03-01 17:51:16,448 INFO b.p.s.u.BudgetPlannerImporter [main] Creating payment
+2020-03-01 17:51:16,457 DEBUG b.p.s.u.BudgetPlannerImporter [main] New payement: {date=2020-02-20T18:12:59, amount=-993.3, currency='EUR', detail='Libero qui porro.'}
+2020-03-01 17:51:16,457 DEBUG b.p.s.u.BudgetPlannerImporter [main] New account created: be.pxl.student.entity.Account@4da4253
+2020-03-01 17:51:16,457 INFO b.p.s.u.BudgetPlannerImporter [main] Creating new account
+2020-03-01 17:51:16,458 INFO b.p.s.u.BudgetPlannerImporter [main] Creating payment
+2020-03-01 17:51:16,458 DEBUG b.p.s.u.BudgetPlannerImporter [main] New payement: {date=2020-02-04T04:17:56, amount=4471.63, currency='EUR', detail='Provident reprehenderit at harum esse et esse omnis.'}
+2020-03-01 17:51:16,458 DEBUG b.p.s.u.BudgetPlannerImporter [main] New account created: be.pxl.student.entity.Account@3972a855
+2020-03-01 17:51:16,459 INFO b.p.s.u.BudgetPlannerImporter [main] Data imported
+2020-03-01 18:08:11,654 INFO b.p.s.u.BudgetPlannerImporter [main] Reading file
+2020-03-01 18:08:11,664 INFO b.p.s.u.BudgetPlannerImporter [main] Creating new account
+2020-03-01 18:08:11,665 INFO b.p.s.u.BudgetPlannerImporter [main] Creating payment
+2020-03-01 18:08:11,681 DEBUG b.p.s.u.BudgetPlannerImporter [main] New payement: {date=2020-02-07T23:48:41, amount=2264.04, currency='EUR', detail='Voluptatibus ut quasi non voluptatem ad.'}
+2020-03-01 18:08:11,681 DEBUG b.p.s.u.BudgetPlannerImporter [main] New account created: be.pxl.student.entity.Account@1b6502
+2020-03-01 18:08:11,682 DEBUG b.p.s.u.BudgetPlannerImporter [main] New payment for: Jos
+2020-03-01 18:08:11,682 INFO b.p.s.u.BudgetPlannerImporter [main] Creating payment
+2020-03-01 18:08:11,682 DEBUG b.p.s.u.BudgetPlannerImporter [main] New payement: {date=2020-02-20T18:12:59, amount=-993.3, currency='EUR', detail='Libero qui porro.'}
+2020-03-01 18:08:11,682 DEBUG b.p.s.u.BudgetPlannerImporter [main] New payment for: Jos
+2020-03-01 18:08:11,682 INFO b.p.s.u.BudgetPlannerImporter [main] Creating payment
+2020-03-01 18:08:11,683 DEBUG b.p.s.u.BudgetPlannerImporter [main] New payement: {date=2020-02-04T04:17:56, amount=4471.63, currency='EUR', detail='Provident reprehenderit at harum esse et esse omnis.'}
+2020-03-01 18:08:11,683 INFO b.p.s.u.BudgetPlannerImporter [main] Data imported
+2020-03-01 18:14:09,907 INFO b.p.s.u.BudgetPlannerImporter [main] Reading file
+2020-03-01 18:14:09,917 INFO b.p.s.u.BudgetPlannerImporter [main] Creating new account
+2020-03-01 18:14:09,917 INFO b.p.s.u.BudgetPlannerImporter [main] Creating payment
+2020-03-01 18:14:09,929 DEBUG b.p.s.u.BudgetPlannerImporter [main] New payement: {date=2020-02-07T23:48:41, amount=2264.04, currency='EUR', detail='Voluptatibus ut quasi non voluptatem ad.'}
+2020-03-01 18:14:09,929 DEBUG b.p.s.u.BudgetPlannerImporter [main] New account created: be.pxl.student.entity.Account@1b6502
+2020-03-01 18:14:09,930 DEBUG b.p.s.u.BudgetPlannerImporter [main] New payment for: Jos
+2020-03-01 18:14:09,930 INFO b.p.s.u.BudgetPlannerImporter [main] Creating payment
+2020-03-01 18:14:09,930 DEBUG b.p.s.u.BudgetPlannerImporter [main] New payement: {date=2020-02-20T18:12:59, amount=-993.3, currency='EUR', detail='Libero qui porro.'}
+2020-03-01 18:14:09,931 DEBUG b.p.s.u.BudgetPlannerImporter [main] New payment for: Jos
+2020-03-01 18:14:09,931 INFO b.p.s.u.BudgetPlannerImporter [main] Creating payment
+2020-03-01 18:14:09,931 DEBUG b.p.s.u.BudgetPlannerImporter [main] New payement: {date=2020-02-04T04:17:56, amount=4471.63, currency='EUR', detail='Provident reprehenderit at harum esse et esse omnis.'}
+2020-03-01 18:14:09,931 INFO b.p.s.u.BudgetPlannerImporter [main] Data imported
