@@ -33,11 +33,5 @@ public class Account {
         this.payments = payments;
     }
 
-    @Override
-    public String toString() {
-        return "Account{" +
-                "IBAN='" + IBAN + '\'' +
-                ", name='" + name + '\'' +
-                ", payments=[" + payments.stream().map(Payment::toString).collect(Collectors.joining(",")) + "]}";
-    }
+
 }
